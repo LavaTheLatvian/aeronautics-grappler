@@ -1,0 +1,7 @@
+{
+  "item.aeronautics_grappler.grappler": "Grappler",
+  "item.aeronautics_grappler.grappler.tooltip": "Grappler",
+  "item.aeronautics_grappler.grappler.tooltip.summary": "Fires a _plunger_ that pulls you toward whatever it hits.",
+  "item.aeronautics_grappler.grappler.tooltip.condition1": "When Right-Clicked",
+  "item.aeronautics_grappler.grappler.tooltip.behaviour1": "Fires a plunger - if a plunger is out, it gets removed instead."
+}

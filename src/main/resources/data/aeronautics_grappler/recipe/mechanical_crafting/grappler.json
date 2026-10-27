@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "tag": "c:ingots/copper"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    },
+    "R": {
+      "item": "simulated:rope_coupling"
+    }
+  },
+  "pattern": [
+    "AMPRS",
+    "CC   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "aeronautics_grappler:grappler"
+  }
+}
